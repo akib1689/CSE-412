@@ -1,0 +1,3 @@
+# This is the README file for the offline 1
+
+In this offline we have to simulate a single server queueing system. The system has a single server and a single queue. The server serves the customers one by one. The inter-arrival time of the customers is exponentially distributed with mean 1/λ. The service time of the customers is exponentially distributed with mean 1/μ. The service discipline is FCFS. The system is initially empty. The system is simulated for 1000 customers. The simulation is run for different values of λ and μ. The simulation is run for 1000 times for each value of λ and μ. The average waiting time of the customers is calculated for each value of λ and μ. The average waiting time is plotted against λ and μ.
